@@ -4,4 +4,4 @@
 - 🎆  I’m currently working on on webapp which tells the stories of minority owned businesses with 7 other Rewriting the Code womxn (HTML,CSS, Bootstrap, Javascript, MySQL)!
 - 🌻  I’m currently learning more about algorithms and data structures. 
 - 🍠  Fun fact: I have a food blog! 
-- 💜  How to reach me: jarellefboac@gmail.com . https://www.linkedin.com/in/jarelleboac , or my food blog @fourhungryasians :)
+- 💜  How to reach me: jarellefboac@gmail.com , https://www.linkedin.com/in/jarelleboac , or my food blog @fourhungryasians :)
