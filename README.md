@@ -1,4 +1,4 @@
-# Hi there 👋 , my name is Jarelle Franchela (or just Jarelle for short), pronouns are she/hers
+# Hi there 👋 , my name is Jarelle Franchela (or just Jarelle for short)
 
 I am a third year Computer Science student at Rutgers University.
 
