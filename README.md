@@ -7,7 +7,7 @@ I am a third year Computer Science student at Rutgers University.
 - Python, C, Javascript, Java, HTML, CSS, mySQL
 
 ###  🌻  I am currently learning more about:
-- Cyber Security
+- Cybersecurity
 - Artificial Intelligence
 - Web Development
 - Data Structures
