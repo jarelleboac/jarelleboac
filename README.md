@@ -1,6 +1,6 @@
 # Hi there 👋 , my name is Jarelle Franchela (or just Jarelle for short)
 
-I am a third year Computer Science student at Rutgers University.
+I am a third year Computer Science student at Rutgers University interested in full stack application development, data analytics, and cybersecurity.
 
 ###  😄   My Skills:
 #### Programming Languages: 
